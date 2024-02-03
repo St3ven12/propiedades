@@ -3,7 +3,7 @@
         <div class="logo">
             <a href="index.php">
                 <h1><i class="fa-solid fa-city"></i></h1>
-                <p>Inmobiliaria Web</p>
+                <p>InmoVida</p>
             </a>
 
         </div>
